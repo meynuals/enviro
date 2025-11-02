@@ -288,7 +288,7 @@ export default function About() {
             Connect with us on our social media and view our documented materials to see our stewardship at work!
           </Typography>
 
-          <Grid container spacing={4}>
+          <Grid container spacing={4} sx={{ justifyContent: 'center' }}>
             <Grid item xs={12} sm={6} md={4}>
               <Card
                 component="a"
